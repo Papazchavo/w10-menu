@@ -45,4 +45,5 @@ ve dahası mevcuttur.
 > [!CAUTION]
 > Program Lisanslıdır. Aksine dava açmaktan çekinmeyeceğiz.
 
+# Görsel
 ![image](![image](https://github.com/Papazchavo/w10-menu/assets/116741003/74212b45-1e60-4cab-b9c9-4240cc4b7c48))
